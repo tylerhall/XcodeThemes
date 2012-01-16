@@ -24,7 +24,7 @@ INSTALL
 -------
 
  * **Xcode 3** - Download the `.xccolortheme` file and place it in `~/Library/Application Support/Xcode/Color Themes` then restart Xcode.
- * **Xcode 4** - Download the `.dvtcolortheme` file and place it in `~/Developer/Xcode/UserData/FontAndColorThemes` then restart Xcode.
+ * **Xcode 4** - Download the `.dvtcolortheme` file and place it in `~/Library/Developer/Xcode/UserData/FontAndColorThemes` then restart Xcode.
 
 ----
 
